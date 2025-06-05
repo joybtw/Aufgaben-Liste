@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CodingGiants\\C# Donnerstags\\AufgabenListe-Forms\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{70E00FCA-2DAE-4C0C-B2FB-9F46858312F2}|AufgabenListe-Forms\\AufgabenListe-Forms.csproj|D:\\CodingGiants\\C# Donnerstags\\AufgabenListe-Forms\\aufgabenliste-forms\\steuerungen\\logincontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{70E00FCA-2DAE-4C0C-B2FB-9F46858312F2}|AufgabenListe-Forms\\AufgabenListe-Forms.csproj|solutionrelative:aufgabenliste-forms\\steuerungen\\logincontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70E00FCA-2DAE-4C0C-B2FB-9F46858312F2}|AufgabenListe-Forms\\AufgabenListe-Forms.csproj|D:\\CodingGiants\\C# Donnerstags\\AufgabenListe-Forms\\aufgabenliste-forms\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{70E00FCA-2DAE-4C0C-B2FB-9F46858312F2}|AufgabenListe-Forms\\AufgabenListe-Forms.csproj|solutionrelative:aufgabenliste-forms\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70E00FCA-2DAE-4C0C-B2FB-9F46858312F2}|AufgabenListe-Forms\\AufgabenListe-Forms.csproj|d:\\codinggiants\\c# donnerstags\\aufgabenliste-forms\\aufgabenliste-forms\\steuerungen\\logincontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70E00FCA-2DAE-4C0C-B2FB-9F46858312F2}|AufgabenListe-Forms\\AufgabenListe-Forms.csproj|solutionrelative:aufgabenliste-forms\\steuerungen\\logincontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70E00FCA-2DAE-4C0C-B2FB-9F46858312F2}|AufgabenListe-Forms\\AufgabenListe-Forms.csproj|D:\\CodingGiants\\C# Donnerstags\\AufgabenListe-Forms\\aufgabenliste-forms\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70E00FCA-2DAE-4C0C-B2FB-9F46858312F2}|AufgabenListe-Forms\\AufgabenListe-Forms.csproj|solutionrelative:aufgabenliste-forms\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70E00FCA-2DAE-4C0C-B2FB-9F46858312F2}|AufgabenListe-Forms\\AufgabenListe-Forms.csproj|D:\\CodingGiants\\C# Donnerstags\\AufgabenListe-Forms\\aufgabenliste-forms\\forms\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70E00FCA-2DAE-4C0C-B2FB-9F46858312F2}|AufgabenListe-Forms\\AufgabenListe-Forms.csproj|solutionrelative:aufgabenliste-forms\\forms\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70E00FCA-2DAE-4C0C-B2FB-9F46858312F2}|AufgabenListe-Forms\\AufgabenListe-Forms.csproj|D:\\CodingGiants\\C# Donnerstags\\AufgabenListe-Forms\\aufgabenliste-forms\\forms\\mainform.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{70E00FCA-2DAE-4C0C-B2FB-9F46858312F2}|AufgabenListe-Forms\\AufgabenListe-Forms.csproj|solutionrelative:aufgabenliste-forms\\forms\\mainform.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70E00FCA-2DAE-4C0C-B2FB-9F46858312F2}|AufgabenListe-Forms\\AufgabenListe-Forms.csproj|D:\\CodingGiants\\C# Donnerstags\\AufgabenListe-Forms\\aufgabenliste-forms\\steuerungen\\taskcontrol.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{70E00FCA-2DAE-4C0C-B2FB-9F46858312F2}|AufgabenListe-Forms\\AufgabenListe-Forms.csproj|solutionrelative:aufgabenliste-forms\\steuerungen\\taskcontrol.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70E00FCA-2DAE-4C0C-B2FB-9F46858312F2}|AufgabenListe-Forms\\AufgabenListe-Forms.csproj|D:\\CodingGiants\\C# Donnerstags\\AufgabenListe-Forms\\aufgabenliste-forms\\steuerungen\\taskcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{70E00FCA-2DAE-4C0C-B2FB-9F46858312F2}|AufgabenListe-Forms\\AufgabenListe-Forms.csproj|solutionrelative:aufgabenliste-forms\\steuerungen\\taskcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginControl.cs",
+              "DocumentMoniker": "D:\\CodingGiants\\C# Donnerstags\\AufgabenListe-Forms\\AufgabenListe-Forms\\Steuerungen\\LoginControl.cs",
+              "RelativeDocumentMoniker": "AufgabenListe-Forms\\Steuerungen\\LoginControl.cs",
+              "ToolTip": "D:\\CodingGiants\\C# Donnerstags\\AufgabenListe-Forms\\AufgabenListe-Forms\\Steuerungen\\LoginControl.cs",
+              "RelativeToolTip": "AufgabenListe-Forms\\Steuerungen\\LoginControl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T15:43:05.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "D:\\CodingGiants\\C# Donnerstags\\AufgabenListe-Forms\\AufgabenListe-Forms\\Forms\\MainForm.cs",
+              "RelativeDocumentMoniker": "AufgabenListe-Forms\\Forms\\MainForm.cs",
+              "ToolTip": "D:\\CodingGiants\\C# Donnerstags\\AufgabenListe-Forms\\AufgabenListe-Forms\\Forms\\MainForm.cs",
+              "RelativeToolTip": "AufgabenListe-Forms\\Forms\\MainForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T15:38:20.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainForm.cs [Entwurf]",
+              "DocumentMoniker": "D:\\CodingGiants\\C# Donnerstags\\AufgabenListe-Forms\\AufgabenListe-Forms\\Forms\\MainForm.cs",
+              "RelativeDocumentMoniker": "AufgabenListe-Forms\\Forms\\MainForm.cs",
+              "ToolTip": "D:\\CodingGiants\\C# Donnerstags\\AufgabenListe-Forms\\AufgabenListe-Forms\\Forms\\MainForm.cs [Entwurf]",
+              "RelativeToolTip": "AufgabenListe-Forms\\Forms\\MainForm.cs [Entwurf]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T15:38:15.234Z",
+              "EditorCaption": " [Entwurf]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginControl.cs [Entwurf]",
+              "DocumentMoniker": "D:\\CodingGiants\\C# Donnerstags\\AufgabenListe-Forms\\AufgabenListe-Forms\\Steuerungen\\LoginControl.cs",
+              "RelativeDocumentMoniker": "AufgabenListe-Forms\\Steuerungen\\LoginControl.cs",
+              "ToolTip": "D:\\CodingGiants\\C# Donnerstags\\AufgabenListe-Forms\\AufgabenListe-Forms\\Steuerungen\\LoginControl.cs [Entwurf]",
+              "RelativeToolTip": "AufgabenListe-Forms\\Steuerungen\\LoginControl.cs [Entwurf]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T15:39:50.343Z",
+              "EditorCaption": " [Entwurf]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainForm.Designer.cs",
+              "DocumentMoniker": "D:\\CodingGiants\\C# Donnerstags\\AufgabenListe-Forms\\AufgabenListe-Forms\\Forms\\MainForm.Designer.cs",
+              "RelativeDocumentMoniker": "AufgabenListe-Forms\\Forms\\MainForm.Designer.cs",
+              "ToolTip": "D:\\CodingGiants\\C# Donnerstags\\AufgabenListe-Forms\\AufgabenListe-Forms\\Forms\\MainForm.Designer.cs",
+              "RelativeToolTip": "AufgabenListe-Forms\\Forms\\MainForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T15:39:59.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainForm.resx",
+              "DocumentMoniker": "D:\\CodingGiants\\C# Donnerstags\\AufgabenListe-Forms\\AufgabenListe-Forms\\Forms\\MainForm.resx",
+              "RelativeDocumentMoniker": "AufgabenListe-Forms\\Forms\\MainForm.resx",
+              "ToolTip": "D:\\CodingGiants\\C# Donnerstags\\AufgabenListe-Forms\\AufgabenListe-Forms\\Forms\\MainForm.resx",
+              "RelativeToolTip": "AufgabenListe-Forms\\Forms\\MainForm.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-06-05T15:40:24.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TaskControl.resx",
+              "DocumentMoniker": "D:\\CodingGiants\\C# Donnerstags\\AufgabenListe-Forms\\AufgabenListe-Forms\\Steuerungen\\TaskControl.resx",
+              "RelativeDocumentMoniker": "AufgabenListe-Forms\\Steuerungen\\TaskControl.resx",
+              "ToolTip": "D:\\CodingGiants\\C# Donnerstags\\AufgabenListe-Forms\\AufgabenListe-Forms\\Steuerungen\\TaskControl.resx",
+              "RelativeToolTip": "AufgabenListe-Forms\\Steuerungen\\TaskControl.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-06-05T15:40:18.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TaskControl.cs [Entwurf]",
+              "DocumentMoniker": "D:\\CodingGiants\\C# Donnerstags\\AufgabenListe-Forms\\AufgabenListe-Forms\\Steuerungen\\TaskControl.cs",
+              "RelativeDocumentMoniker": "AufgabenListe-Forms\\Steuerungen\\TaskControl.cs",
+              "ToolTip": "D:\\CodingGiants\\C# Donnerstags\\AufgabenListe-Forms\\AufgabenListe-Forms\\Steuerungen\\TaskControl.cs [Entwurf]",
+              "RelativeToolTip": "AufgabenListe-Forms\\Steuerungen\\TaskControl.cs [Entwurf]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T15:29:49.185Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
