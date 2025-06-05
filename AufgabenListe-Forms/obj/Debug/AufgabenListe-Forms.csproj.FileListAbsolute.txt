@@ -1,0 +1,9 @@
+D:\CodingGiants\C# Donnerstags\AufgabenListe-Forms\AufgabenListe-Forms\bin\Debug\AufgabenListe-Forms.exe.config
+D:\CodingGiants\C# Donnerstags\AufgabenListe-Forms\AufgabenListe-Forms\bin\Debug\AufgabenListe-Forms.exe
+D:\CodingGiants\C# Donnerstags\AufgabenListe-Forms\AufgabenListe-Forms\bin\Debug\AufgabenListe-Forms.pdb
+D:\CodingGiants\C# Donnerstags\AufgabenListe-Forms\AufgabenListe-Forms\obj\Debug\AufgabenListe-Forms.csproj.AssemblyReference.cache
+D:\CodingGiants\C# Donnerstags\AufgabenListe-Forms\AufgabenListe-Forms\obj\Debug\AufgabenListe_Forms.Properties.Resources.resources
+D:\CodingGiants\C# Donnerstags\AufgabenListe-Forms\AufgabenListe-Forms\obj\Debug\AufgabenListe-Forms.csproj.GenerateResource.cache
+D:\CodingGiants\C# Donnerstags\AufgabenListe-Forms\AufgabenListe-Forms\obj\Debug\AufgabenListe-Forms.csproj.CoreCompileInputs.cache
+D:\CodingGiants\C# Donnerstags\AufgabenListe-Forms\AufgabenListe-Forms\obj\Debug\AufgabenListe-Forms.exe
+D:\CodingGiants\C# Donnerstags\AufgabenListe-Forms\AufgabenListe-Forms\obj\Debug\AufgabenListe-Forms.pdb
