@@ -17,6 +17,7 @@ namespace AufgabenListe_Forms.Steuerungen
         {
             InitializeComponent();
             _mainForm = mainForm;
+            Dock = DockStyle.Fill;
         }
 
         private void textBox1_TextChanged(object sender, EventArgs e)
@@ -24,7 +25,12 @@ namespace AufgabenListe_Forms.Steuerungen
 
         }
 
-        private void button1_Click(object sender, EventArgs e)
+        private void btnZurueck_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnRegistrieren_Click(object sender, EventArgs e)
         {
 
         }

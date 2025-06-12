@@ -17,11 +17,28 @@ namespace AufgabenListe_Forms.Steuerungen
         {
             InitializeComponent();
             _mainForm = mainForm;
+            Dock = DockStyle.Fill;
         }
 
         private void TaskControl_Load(object sender, EventArgs e)
         {
 
+        }
+
+        private void btnAusloggen_Click(object sender, EventArgs e)
+        {
+        }
+
+        private void btnHinzufügen_Click(object sender, EventArgs e)
+        {
+        }
+
+        private void btnBearbeiten_Click(object sender, EventArgs e)
+        {
+        }
+
+        private void btnLöschen_Click(object sender, EventArgs e)
+        {
         }
     }
 }

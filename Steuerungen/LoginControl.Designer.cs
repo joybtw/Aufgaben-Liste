@@ -36,6 +36,8 @@
             this.tbBenutzername = new System.Windows.Forms.TextBox();
             this.contextMenuStrip1 = new System.Windows.Forms.ContextMenuStrip(this.components);
             this.tbPasswort = new System.Windows.Forms.TextBox();
+            this.btnAnmelden = new System.Windows.Forms.Button();
+            this.btnRegistrieren = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // lblBenutzername
@@ -103,10 +105,32 @@
             this.tbPasswort.TabIndex = 6;
             this.tbPasswort.TextChanged += new System.EventHandler(this.tbPasswort_TextChanged);
             // 
+            // btnAnmelden
+            // 
+            this.btnAnmelden.Location = new System.Drawing.Point(190, 189);
+            this.btnAnmelden.Name = "btnAnmelden";
+            this.btnAnmelden.Size = new System.Drawing.Size(154, 27);
+            this.btnAnmelden.TabIndex = 7;
+            this.btnAnmelden.Text = "Anmelden";
+            this.btnAnmelden.UseVisualStyleBackColor = true;
+            this.btnAnmelden.Click += new System.EventHandler(this.btnAnmelden_Click);
+            // 
+            // btnRegistrieren
+            // 
+            this.btnRegistrieren.Location = new System.Drawing.Point(190, 222);
+            this.btnRegistrieren.Name = "btnRegistrieren";
+            this.btnRegistrieren.Size = new System.Drawing.Size(154, 27);
+            this.btnRegistrieren.TabIndex = 8;
+            this.btnRegistrieren.Text = "Registrieren";
+            this.btnRegistrieren.UseVisualStyleBackColor = true;
+            this.btnRegistrieren.Click += new System.EventHandler(this.btnRegistrieren_Click);
+            // 
             // LoginControl
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.Controls.Add(this.btnRegistrieren);
+            this.Controls.Add(this.btnAnmelden);
             this.Controls.Add(this.tbPasswort);
             this.Controls.Add(this.tbBenutzername);
             this.Controls.Add(this.lblValidierung);
@@ -130,5 +154,7 @@
         private System.Windows.Forms.TextBox tbBenutzername;
         private System.Windows.Forms.ContextMenuStrip contextMenuStrip1;
         private System.Windows.Forms.TextBox tbPasswort;
+        private System.Windows.Forms.Button btnAnmelden;
+        private System.Windows.Forms.Button btnRegistrieren;
     }
 }

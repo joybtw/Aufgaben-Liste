@@ -75,6 +75,7 @@
             this.btnHinzufügen.TabIndex = 3;
             this.btnHinzufügen.Text = "Hinzufügen";
             this.btnHinzufügen.UseVisualStyleBackColor = true;
+            this.btnHinzufügen.Click += new System.EventHandler(this.btnHinzufügen_Click);
             // 
             // btnBearbeiten
             // 
@@ -84,6 +85,7 @@
             this.btnBearbeiten.TabIndex = 4;
             this.btnBearbeiten.Text = "Bearbeiten";
             this.btnBearbeiten.UseVisualStyleBackColor = true;
+            this.btnBearbeiten.Click += new System.EventHandler(this.btnBearbeiten_Click);
             // 
             // btnLöschen
             // 
@@ -93,6 +95,7 @@
             this.btnLöschen.TabIndex = 5;
             this.btnLöschen.Text = "Löschen";
             this.btnLöschen.UseVisualStyleBackColor = true;
+            this.btnLöschen.Click += new System.EventHandler(this.btnLöschen_Click);
             // 
             // lvAufgaben
             // 

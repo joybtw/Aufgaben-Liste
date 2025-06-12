@@ -1,4 +1,5 @@
-﻿using System;
+﻿using AufgabenListe_Forms.Klassen;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -18,6 +19,7 @@ namespace AufgabenListe_Forms.Steuerungen
         {
             InitializeComponent();
             _mainForm = mainForm;
+            Dock = DockStyle.Fill;
         }
 
         private void LoginControl_Load(object sender, EventArgs e)
@@ -33,6 +35,14 @@ namespace AufgabenListe_Forms.Steuerungen
         private void tbPasswort_TextChanged(object sender, EventArgs e)
         {
 
+        }
+
+        private void btnAnmelden_Click(object sender, EventArgs e)
+        {
+
+        }
+        private void btnRegistrieren_Click(object sender, EventArgs e)
+        {
         }
     }
 }

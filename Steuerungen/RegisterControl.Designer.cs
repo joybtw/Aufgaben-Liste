@@ -44,7 +44,7 @@
             this.lblPasswortValid = new System.Windows.Forms.Label();
             this.lblPasswortWiederholenValid = new System.Windows.Forms.Label();
             this.btnRegistrieren = new System.Windows.Forms.Button();
-            this.button1 = new System.Windows.Forms.Button();
+            this.btnZurueck = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // lblTitel
@@ -175,22 +175,23 @@
             this.btnRegistrieren.TabIndex = 14;
             this.btnRegistrieren.Text = "Registrieren";
             this.btnRegistrieren.UseVisualStyleBackColor = true;
+            this.btnRegistrieren.Click += new System.EventHandler(this.btnRegistrieren_Click);
             // 
-            // button1
+            // btnZurueck
             // 
-            this.button1.Location = new System.Drawing.Point(22, 43);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(75, 23);
-            this.button1.TabIndex = 15;
-            this.button1.Text = "Zurück";
-            this.button1.UseVisualStyleBackColor = true;
-            this.button1.Click += new System.EventHandler(this.button1_Click);
+            this.btnZurueck.Location = new System.Drawing.Point(22, 43);
+            this.btnZurueck.Name = "btnZurueck";
+            this.btnZurueck.Size = new System.Drawing.Size(75, 23);
+            this.btnZurueck.TabIndex = 15;
+            this.btnZurueck.Text = "Zurück";
+            this.btnZurueck.UseVisualStyleBackColor = true;
+            this.btnZurueck.Click += new System.EventHandler(this.btnZurueck_Click);
             // 
             // RegisterControl
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.Controls.Add(this.button1);
+            this.Controls.Add(this.btnZurueck);
             this.Controls.Add(this.btnRegistrieren);
             this.Controls.Add(this.lblPasswortWiederholenValid);
             this.Controls.Add(this.lblPasswortValid);
@@ -229,6 +230,6 @@
         private System.Windows.Forms.Label lblPasswortValid;
         private System.Windows.Forms.Label lblPasswortWiederholenValid;
         private System.Windows.Forms.Button btnRegistrieren;
-        private System.Windows.Forms.Button button1;
+        private System.Windows.Forms.Button btnZurueck;
     }
 }
