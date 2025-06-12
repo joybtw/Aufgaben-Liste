@@ -12,9 +12,11 @@ namespace AufgabenListe_Forms.Steuerungen
 {
     public partial class RegisterControl : UserControl
     {
-        public RegisterControl()
+        private MainForm _mainForm;
+        public RegisterControl(MainForm mainForm)
         {
             InitializeComponent();
+            _mainForm = mainForm;
         }
 
         private void textBox1_TextChanged(object sender, EventArgs e)

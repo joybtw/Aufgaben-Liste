@@ -12,9 +12,11 @@ namespace AufgabenListe_Forms.Steuerungen
 {
     public partial class TaskControl : UserControl
     {
-        public TaskControl()
+        private MainForm _mainForm;
+        public TaskControl(MainForm mainForm)
         {
             InitializeComponent();
+            _mainForm = mainForm;
         }
 
         private void TaskControl_Load(object sender, EventArgs e)

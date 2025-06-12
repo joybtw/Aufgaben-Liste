@@ -35,4 +35,29 @@ namespace AufgabenListe_Forms
             // Das neu erstellte Objekt dem Steuerelement des Formulars hinzufügen
             Controls.Add(new LoginControl(this));
         }
+
+        public void RegisterControl()
+        {
+            // Entferne alle Steuerelemente aus dem Formular
+            Controls.Clear();
+            // Erstelle ein neues Objekt von LoginControl
+            // Dem Konstruktor wird das Formular mit dem Schlüsselwort 'this' übergeben
+            // Da wir uns derzeit in der Hauptformularklasse befinden
+            // und 'this' sich auf das Objekt bezieht, in dem wir uns gerade befinden
+            // Das neu erstellte Objekt dem Steuerelement des Formulars hinzufügen
+            Controls.Add(new RegisterControl(this));
+        }
+
+        public void TaskControl()
+        {
+            // Entferne alle Steuerelemente aus dem Formular
+            Controls.Clear();
+            // Erstelle ein neues Objekt von LoginControl
+            // Dem Konstruktor wird das Formular mit dem Schlüsselwort 'this' übergeben
+            // Da wir uns derzeit in der Hauptformularklasse befinden
+            // und 'this' sich auf das Objekt bezieht, in dem wir uns gerade befinden
+            // Das neu erstellte Objekt dem Steuerelement des Formulars hinzufügen
+            Controls.Add(new TaskControl(this));
+        }
+    }
 }

@@ -12,9 +12,12 @@ namespace AufgabenListe_Forms.Steuerungen
 {
     public partial class LoginControl : UserControl
     {
-        public LoginControl()
+        // Referenz auf MainForm
+        private MainForm _mainForm;
+        public LoginControl(MainForm mainForm)
         {
             InitializeComponent();
+            _mainForm = mainForm;
         }
 
         private void LoginControl_Load(object sender, EventArgs e)
